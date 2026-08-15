@@ -1,100 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <!-- Homepage -->
   <url>
-    <loc>https://www.shrishyampolypack.com/</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
   <!-- About Us -->
   <url>
-    <loc>https://www.shrishyampolypack.com/about</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/about</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <!-- Products Catalogue -->
   <url>
-    <loc>https://www.shrishyampolypack.com/products</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <!-- Product Detail Pages -->
   <url>
-    <loc>https://www.shrishyampolypack.com/products/pp-woven-bags</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/pp-woven-bags</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.shrishyampolypack.com/products/hdpe-woven-bags</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/hdpe-woven-bags</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.shrishyampolypack.com/products/bopp-laminated-bags</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/laminated-woven-sacks</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.shrishyampolypack.com/products/flexographic-printed-bags</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/unlaminated-woven-bags</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.shrishyampolypack.com/products/pp-woven-fabric-rolls</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/pp-woven-rolls</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.shrishyampolypack.com/products/food-grain-packaging-sacks</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/printed-woven-bags</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.shrishyampolypack.com/products/fertilizer-chemical-sacks</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/food-grain-bags</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.shrishyampolypack.com/products/block-bottom-cement-valve-bags</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/fertilizer-packaging-bags</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.shrishyampolypack.com/products/custom-industrial-packaging</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/products/cement-packaging-bags</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://shrishyampolypacks.com/products/customized-industrial-packaging</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://shrishyampolypacks.com/products/blue-pp-woven-sack-bag</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://shrishyampolypacks.com/products/green-pp-woven-sack-bag</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://shrishyampolypacks.com/products/yellow-pp-woven-sack-bag</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Industries -->
   <url>
-    <loc>https://www.shrishyampolypack.com/industries</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/industries</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <!-- Quality Assurance -->
   <url>
-    <loc>https://www.shrishyampolypack.com/quality</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/quality</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <!-- Contact Us -->
   <url>
-    <loc>https://www.shrishyampolypack.com/contact</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://shrishyampolypacks.com/contact</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
 </urlset>

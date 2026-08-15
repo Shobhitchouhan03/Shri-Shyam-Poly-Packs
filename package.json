@@ -8,7 +8,7 @@
     "build": "vite build && cp dist/index.html dist/404.html",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npx gh-pages -d dist"
   },
   "dependencies": {
     "@react-three/drei": "^9.121.5",
@@ -23,6 +23,7 @@
   "devDependencies": {
     "@tailwindcss/vite": "^4.0.7",
     "@vitejs/plugin-react": "^4.3.4",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4.0.7",
     "vite": "^6.1.1"
   }

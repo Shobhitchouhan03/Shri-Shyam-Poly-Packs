@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import logoIcon from "../../assets/images/logo/shri-shyam-poly-packs-icon.svg";
 
 /**
  * Unified Responsive Brand Logo Component — Shri Shyam Poly Packs
@@ -23,7 +24,7 @@ export default function BrandLogo({
   const IconSymbol = (
     <div className="relative w-9 h-9 sm:w-10 sm:h-10 shrink-0 rounded-xl bg-[#0F4A37] border border-[#D4A23C]/80 flex items-center justify-center shadow-xs transition-transform duration-300 group-hover:scale-105 overflow-hidden">
       <img
-        src={`${import.meta.env.BASE_URL}shri-shyam-poly-packs-icon.svg`}
+        src={logoIcon}
         alt="Shri Shyam Poly Packs Icon"
         className="w-7 h-7 sm:w-8 sm:h-8 object-contain"
       />

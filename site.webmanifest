@@ -8,7 +8,7 @@
   "theme_color": "#103D2D",
   "icons": [
     {
-      "src": "/shri-shyam-poly-packs-icon.svg",
+      "src": "shri-shyam-poly-packs-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }

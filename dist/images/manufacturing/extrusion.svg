@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#103D2D"/>
+      <stop offset="100%" stop-color="#171A18"/>
+    </linearGradient>
+    <filter id="sh" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#bg)"/>
+
+  <!-- High-Speed Tape Extrusion Plant Diagram Render -->
+  <g filter="url(#sh)" transform="translate(100, 150)">
+    <!-- Resin Hopper Extruder Body -->
+    <rect x="50" y="80" width="120" height="180" rx="10" fill="#1D6448" stroke="#C59A4A" stroke-width="3"/>
+    <polygon points="70,20 150,20 130,80 90,80" fill="#C59A4A"/>
+    <text x="110" y="50" font-family="sans-serif" font-weight="bold" font-size="10" fill="#171A18" text-anchor="middle">POLYMER HOPPER</text>
+
+    <!-- Heating Barrel Extruder Die -->
+    <rect x="170" y="140" width="140" height="60" fill="#103D2D" stroke="#C59A4A" stroke-width="2"/>
+    <text x="240" y="175" font-family="sans-serif" font-weight="bold" font-size="11" fill="#FFFFFF" text-anchor="middle">TAPE DIE HEAD</text>
+
+    <!-- Flat PP Tape Thread Lines (Extruded Yarn) -->
+    <g stroke="#E8E0D1" stroke-width="2.5">
+      <line x1="310" y1="145" x2="520" y2="145"/>
+      <line x1="310" y1="155" x2="520" y2="155"/>
+      <line x1="310" y1="165" x2="520" y2="165"/>
+      <line x1="310" y1="175" x2="520" y2="175"/>
+      <line x1="310" y1="185" x2="520" y2="185"/>
+      <line x1="310" y1="195" x2="520" y2="195"/>
+    </g>
+
+    <!-- Cooling & Stretching Rollers -->
+    <circle cx="400" cy="170" r="28" fill="#171A18" stroke="#C59A4A" stroke-width="3"/>
+    <circle cx="480" cy="170" r="28" fill="#171A18" stroke="#C59A4A" stroke-width="3"/>
+
+    <!-- Winder Bobbin Spools -->
+    <rect x="520" y="100" width="40" height="140" rx="4" fill="#C59A4A"/>
+    <text x="540" y="260" font-family="sans-serif" font-weight="extrabold" font-size="12" fill="#C59A4A" text-anchor="middle">WINDER BOBBINS</text>
+  </g>
+</svg>

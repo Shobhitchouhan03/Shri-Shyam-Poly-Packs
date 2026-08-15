@@ -1,0 +1,27 @@
+{
+  "name": "shri-shyam-poly-packs",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.121.5",
+    "@react-three/fiber": "^8.18.0",
+    "gsap": "^3.12.7",
+    "lucide-react": "^0.475.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.2",
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.7",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.7",
+    "vite": "^6.1.1"
+  }
+}

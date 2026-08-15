@@ -1,0 +1,16 @@
+{
+  "name": "Shri Shyam Poly Packs",
+  "short_name": "SS Poly Packs",
+  "description": "Industrial Woven Polypropylene and HDPE Packaging Solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F4EE",
+  "theme_color": "#103D2D",
+  "icons": [
+    {
+      "src": "/shri-shyam-poly-packs-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#171A18"/>
+      <stop offset="100%" stop-color="#103D2D"/>
+    </linearGradient>
+    <filter id="sh" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="600" fill="url(#bg)"/>
+
+  <g filter="url(#sh)" transform="translate(230, 75)">
+    <!-- Main Fertilizer Sack Body -->
+    <path d="M 35 30 Q 170 10 305 30 L 320 430 Q 170 450 20 430 Z" fill="#E8E0D1"/>
+
+    <!-- HM-HDPE Inner Liner Protruding Top -->
+    <path d="M 50 15 Q 170 0 290 15 L 295 40 Q 170 20 45 40 Z" fill="#FFFFFF" opacity="0.85" stroke="#C59A4A" stroke-width="1.5"/>
+    <text x="170" y="28" font-family="sans-serif" font-weight="bold" font-size="10" fill="#103D2D" text-anchor="middle">HM-HDPE LINER INSERTED</text>
+
+    <!-- Top Hem -->
+    <path d="M 35 30 Q 170 10 305 30 L 308 55 Q 170 35 32 55 Z" fill="#1D6448"/>
+    <path d="M 40 42 L 300 42" stroke="#C59A4A" stroke-width="2" stroke-dasharray="6,4"/>
+
+    <!-- Fertilizer Brand Print Box -->
+    <rect x="55" y="110" width="215" height="240" rx="6" fill="#103D2D"/>
+    <text x="162" y="145" font-family="sans-serif" font-weight="bold" font-size="12" fill="#C59A4A" text-anchor="middle" letter-spacing="2">AGRO CHEMICALS</text>
+    <text x="162" y="170" font-family="sans-serif" font-weight="extrabold" font-size="18" fill="#FFFFFF" text-anchor="middle">FERTILIZER SACK</text>
+    <text x="162" y="190" font-family="sans-serif" font-weight="bold" font-size="13" fill="#E8E0D1" text-anchor="middle">UREA / NPK / MANURE</text>
+    <line x1="75" y1="205" x2="250" y2="205" stroke="#C59A4A" stroke-width="1" opacity="0.5"/>
+    <text x="162" y="230" font-family="sans-serif" font-size="11" fill="#66706B" text-anchor="middle">45 KG / 50 KG BULK SACK</text>
+    <text x="162" y="250" font-family="sans-serif" font-weight="bold" font-size="11" fill="#C59A4A" text-anchor="middle">CHEMICAL RESISTANT LINER</text>
+    <text x="162" y="270" font-family="sans-serif" font-size="10" fill="#E8E0D1" text-anchor="middle">UV STABILIZED FABRIC</text>
+
+    <!-- Bottom Stitch -->
+    <path d="M 22 430 L 318 430" stroke="#171A18" stroke-width="6"/>
+    <path d="M 22 430 L 318 430" stroke="#C59A4A" stroke-width="2" stroke-dasharray="6,3"/>
+  </g>
+</svg>

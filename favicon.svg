@@ -1,0 +1,22 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Circular Industrial Frame -->
+  <circle cx="50" cy="50" r="46" fill="#0F4A37" stroke="#D4A23C" stroke-width="3"/>
+  <circle cx="50" cy="50" r="41" stroke="#F7F5EE" stroke-width="1.5" stroke-dasharray="6 3" opacity="0.8"/>
+
+  <!-- PP Woven Sack / Katta Silhouette -->
+  <g transform="translate(10, 10)">
+    <!-- Base Sack Body -->
+    <path d="M25 24 C25 20 29 17 35 17 L45 17 C51 17 55 20 55 24 L59 66 C59 71 55 75 49 75 L31 75 C25 75 21 71 21 66 Z" fill="#093124" stroke="#D4A23C" stroke-width="2.5"/>
+    
+    <!-- Top Hem & Thread Stitching -->
+    <path d="M21 26 L59 26" stroke="#F7F5EE" stroke-width="3" stroke-linecap="round"/>
+    <path d="M24 22 L56 22" stroke="#D4A23C" stroke-width="1.5" stroke-dasharray="2 2"/>
+    
+    <!-- Polymer Woven Ribbon Layers -->
+    <path d="M30 35 L50 35" stroke="#F7F5EE" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M30 45 L50 45" stroke="#D4A23C" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M30 55 L50 55" stroke="#F7F5EE" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M36 30 L36 60" stroke="#D4A23C" stroke-width="3" stroke-linecap="round"/>
+    <path d="M44 30 L44 60" stroke="#F7F5EE" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

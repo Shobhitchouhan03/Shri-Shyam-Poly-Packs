@@ -13,7 +13,7 @@ export default function SEO({
   type = "website",
   jsonLd = null,
 }) {
-  const siteUrl = "https://www.shrishyampolypack.com"; // Editable production domain placeholder
+  const siteUrl = "https://shrishyampolypacks.com";
   const canonicalUrl = `${siteUrl}${pathname}`;
   const ogImageUrl = image.startsWith("http") ? image : `${siteUrl}${image}`;
 

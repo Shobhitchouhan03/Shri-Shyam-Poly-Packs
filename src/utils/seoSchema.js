@@ -1,6 +1,6 @@
 import { company } from "../data/company.js";
 
-const siteUrl = "https://www.shrishyampolypack.com";
+const siteUrl = "https://shrishyampolypacks.com";
 
 /**
  * Organization & LocalBusiness JSON-LD Schema

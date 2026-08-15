@@ -91,7 +91,7 @@ export function buildMailtoUrl(enquiry = {}) {
   const subject = encodeURIComponent(`Packaging Enquiry — ${queryType} — ${customerName}`);
   const body = encodeURIComponent(buildEmailEnquiryText(enquiry));
   
-  const recipient = company.email && !company.email.includes("[") ? company.email : "sales@shrishyampolypack.com";
+  const recipient = company.email && !company.email.includes("[") ? company.email : "sales@shrishyampolypacks.com";
   return `mailto:${recipient}?subject=${subject}&body=${body}`;
 }
 
